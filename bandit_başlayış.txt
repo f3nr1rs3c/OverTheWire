@@ -1,0 +1,2 @@
+SSH Bağlantısı: ssh bandit0@bandit.labs.overthewire.org -p 2220
+SSH Bağlantı Parolası: bandit0
